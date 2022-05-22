@@ -8,6 +8,14 @@ Clone
 ```sh
 git clone https://github.com/shourgamer2/fget
 ```
+Cd
+```sh
+cd fget
+```
+Install all the packages
+```sh
+python -m pip install -r requirements.txt
+```
 Modify <br>
 Import the packages 
 ```python
