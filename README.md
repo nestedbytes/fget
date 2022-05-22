@@ -2,20 +2,9 @@
 A cli used to download files from the web
 # Download and setup
 Download <br>
-[Download](https://github.com/shourgamer2/fget/releases/download/ver1.0.0/fget.exe) <br>
+[Download](https://github.com/shourgamer2/fget/releases/download/ver1.0.0/fget.zip) <br>
 Setup <br>
-First of all make a folder in your C: drive called "fget" and move the exe which you download there
-![image](https://user-images.githubusercontent.com/90188229/169689803-dbb958cf-a8e9-40f4-b896-be99cbef6298.png) <br>
-Then search for "edit the system environment variables" in your start <br>
-![image](https://user-images.githubusercontent.com/90188229/169689847-f579b2c9-403c-477c-91dd-82c2d830a86d.png) <br>
-Open it then open Enviroment Variables from there <br>
-![image](https://user-images.githubusercontent.com/90188229/169689888-732128f7-3cbe-4a34-b4ec-34c1e7bfe93e.png) <br>
-Select path and click Edit <br>
-![image](https://user-images.githubusercontent.com/90188229/169689944-7ca10e62-dae3-4e74-b5e9-a04c8367e4dd.png) <br>
-Then click on the white space to deselect anything which was selected. And click on browse <br>
-![image](https://user-images.githubusercontent.com/90188229/169689991-4508d606-7eca-43ed-b690-0ed345e1685b.png) <br>
-From here open this pc.Then select your c drive then select the fget folder you made and click ok <br>
-![image](https://user-images.githubusercontent.com/90188229/169690039-f8633460-c2a8-4ab5-bf36-14abef232435.png) <br>
+First of all extract the files of the zip and then make a new folder in your c drive called "fget" then copy all the files which you got after extracting to the fget folder you made in your c drive then run the addtopath.bat and then everything is done !
 # Usage
 ```sh
 fget <urlhere> <filenamewithextensionhere>
