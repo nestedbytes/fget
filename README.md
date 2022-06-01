@@ -2,9 +2,9 @@
 A cli used to download files from the web
 # Download and setup
 Download <br>
-[Download](https://github.com/shourgamer2/fget/releases/download/ver1.0.0/fget.zip) <br>
+[Download](https://github.com/shourgamer2/fget/releases/download/ins/fgetinstaller.EXE) <br>
 Setup <br>
-First of all extract the files of the zip and then make a new folder in your c drive called "fget" then copy all the files which you got after extracting to the fget folder you made in your c drive then run the addtopath.bat as admin and then everything is done !
+Open the exe file as admin by right clicking and type 1 and hit enter to install fget ! 
 # Usage
 ```sh
 fget <urlhere> <filenamewithextensionhere>
